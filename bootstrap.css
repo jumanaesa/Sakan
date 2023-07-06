@@ -1,0 +1,151 @@
+
+
+body {
+    
+background-color: pink;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  margin: 0;
+}
+
+.container {
+ background-image: linear-gradient(45deg, #ff6347 20%,  #ff6347 90%);
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  width: 450px;
+padding-bottom: 20px;
+
+}
+
+.form {
+  padding: 30px 40px;
+
+}
+
+h2 {
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+
+
+
+
+.form-control input:focus {
+  outline: 0;
+  border-color: #777;
+}
+
+.form-control.success input {
+  border-color: green;
+}
+
+.form-control.error input {
+  border-color: red;
+}
+
+.form-control small {
+  color: red;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  visibility: hidden;
+}
+
+.form-control.error small {
+  visibility: visible;
+}
+
+
+
+.form button {
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  margin-top: -4px;
+  width: 40%;
+  center:50px;
+  float: left;
+}
+
+.form button {
+  background: none;
+  text-decoration: none;
+  color: white;
+  padding: 5px 2em;
+  transition: 0.5s;
+  
+
+}
+
+.con{
+    color: white;
+   width: 40%;
+  float: right;   
+    
+}
+.form button:hover {
+  background: #000033;
+  color: dimgray;
+  transition: 0.5s;
+}
+
+
+
+footer {
+    
+  position: absolute;
+  color: #136a8a;
+  bottom: 10px;
+  padding-left: 20px;
+  height:150px
+}
+
+.form-group  {
+
+   
+  border-radius: 4px;
+  display: block;
+  width: 80%;
+  padding: -5px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding: -5px;
+margin-top: -4px;
+
+
+}
+
+
+.form-control {
+
+   
+  border-radius: 4px;
+  display: block;
+  width: 80%;
+  padding: -5px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding-bottom: 30px;
+  position: relative;
+
+}
+footer p {
+  display: inline;
+}
+footer a {
+  color: green;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+footer .heart {
+  color: #B22222;
+  font-size: 1.5em
+  
+}
+

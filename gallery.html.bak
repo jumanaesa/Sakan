@@ -1,0 +1,114 @@
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Hotel Website | Booking</title>
+		<link href="css/GallStyle.css" rel="stylesheet" type="text/css"  media="all" />
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	</head>
+	<body>
+			<div class="header">
+					<div class="header-top">
+						<div class="logo">
+							<a href="logo.png"><center><img src="logo.png" title="logo" /></center></a>
+						</div>
+						<div class="contact-info">
+						
+						<div class="clear"> </div>
+					</div>
+				</div>
+				<div class="header-top-nav">
+					<div class="wrap">
+						<ul>
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="services.html">Services</a></li>
+							<li><a href="gallery.html">Booking</a></li>
+                            <li><a href="indexx.html">Sign in</a></li>
+							
+							<div class="clear"> </div>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="clear"> </div>
+			<div class="content">
+				<div class="wrap">
+					<div class="gallerys">
+					<h3>gallery</h3>
+					<div class="gallery-grids">
+						<div class="gallery-grid">
+							<img src="images/k.jpg" alt="">
+							<a href="Dammam.html"><h4>Dammam</h4></a>
+							<p style="color: #FF6347;">Address:Dammam, al safa district </p>
+						</div>
+						<div class="gallery-grid grid2">
+							<img src="images/k.jpg" alt="">
+							<a href="khobarNo1.html"><h4>Khobar</h4></a>
+							<p style="color: #FF6347;">Address: Khobar, al rakah district 1</p>
+						</div>
+						<div class="gallery-grid">
+							<img src="images/k.jpg" alt="">
+							<a href="khobarNo2.html"><h4>Khobar</h4></a>
+							<p style="color: #FF6347;">Address: Khobar, al rakah district 2</p>
+						</div>
+						<div class="clear"> </div>
+					</div>
+					<div class="clear"> </div>
+					<div class="gallery-grids">
+						<div class="gallery-grid">
+							<img src="images/k.jpg" alt="">
+							<a href="khobarAlia.html"><h4>Khobar</h4></a>
+							<p style="color: #FF6347;"> Address: Khobar, al alia district</p>
+						</div>
+						<div class="gallery-grid grid2">
+							<img src="images/k.jpg" alt="">
+							<a href="jubail.html"><h4>Jubail</h4></a>
+							<p style="color: #FF6347;">Address: jubail, jalmouda district.</p>
+						</div>
+						
+					<script type="text/javascript" src="js/jquery.lightbox.js"></script>
+				    <link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen">
+				  	<script type="text/javascript">
+				    </script>
+				    <div class="clear"> </div>
+				</div>
+				</div>
+				
+				<div class="clear"> </div>
+				<div class="boxs">
+				<div class="wrap">
+				<div class="box">
+				
+				</div>
+						<div class="box center-box">
+					<ul>
+						<li><a href="#" onclick="myFunction1()">Home</a></li>
+                        	<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="gallery.html">Booking</a></li>
+						<li><a href="services.html">Services</a></li>
+						<li><a href="log.php">Log In</a></li>
+					</ul>
+					
+				</div>
+				
+                     <div id="top123"> <br><br><br><br><br>
+					 
+                                                   <Pre position="absolute"> Follow Us : <a 3 " href="https://twitter.com/sakansayd1?lang=ar"> <img  src="tweet5.jpg"  width=20px height=20px /n /n></a> <a  " href="https://www.instagram.com/sakan_sayd/?igshid=YmMyMTA2M2Y="> <img  src="ins.png" width=20px height=20px> </a> <br></pre>
+                    </div>
+					
+		
+				<div class="clear"> </div>
+			</div>
+	
+		</div>
+    
+		<div class="copy-tight">
+			<p>&copy SAKAN ALSAYED</p>
+		</div>
+			</div>
+		</div>
+	</body>
+</html>
+

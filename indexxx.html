@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Crud operation in javascript</title>
+ 		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
+
+
+</head>
+
+<body >
+    <table>
+        <tr>
+            <td>
+          
+                <form autocomplete="off" onsubmit="onFormSubmit()">
+                    <div>
+                        <label for="fullName">الاسم الكامل</label>
+                        <input type="text" name="fullName" id="fullName" >
+                    </div>
+                    <div>
+                        <label for="empCode">طلب صيانة</label>
+                        <input type="text" name="empCode" id="empCode" >
+                    </div>
+                    <div>
+                        <label for="salary">الفرع</label>
+                        <input type="text" name="salary" id="salary">
+                    </div>
+                    <div>
+                        <label for="city">رقم الجوال</label>
+                        <input type="text" name="city" id="city">
+                    </div>
+                    <div class="form_action--button">
+                        <input type="submit" value="Submit">
+                        <input type="reset" value="Reset">
+                    </div>
+                    
+                  
+                      
+                    
+                </form>
+                
+                 <form action="index.html">
+    <input type="submit" value="Main Page" />
+</form> 
+            </td>
+            <td>
+           
+                
+                
+                <table class="list" id="employeeList">
+                    <thead>
+                        <tr>
+                            <th>Full Name</th>
+                            <th>EMP Code</th>
+                            <th>The Branch</th>
+                            <th>City</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+    
+    <script type="text/javascript" src="./scriptt.js"></script>
+    
+    <footer>
+  <p> <span class='heart'>&hearts; <img src="logo.png" alt="Flight Template">
+            </span> 
+<footer>
+</body>
+
+</html>

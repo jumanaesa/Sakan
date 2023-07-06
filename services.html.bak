@@ -1,0 +1,158 @@
+
+<!DOCTYPE HTML>
+<html>
+    
+<head>
+    
+		<link href="css/service.css" rel="stylesheet" type="text/css"  media="all" />
+
+   </head>
+<title> Sakan Alsayed Services </title>
+<style>
+
+</style>
+
+		
+	</head>
+	<body>
+<!---start-Wrap--->
+<!---start-header--->
+<div class="header">
+<div class="header-top">
+<div class="logo">
+<a href="logo.png"><center><img src="logo.png" title="logo" /></center></a>
+</div>
+<div class="contact-info">
+
+<div class="clear"> </div>
+</div>
+</div>
+<div class="header-top-nav">
+<div class="wrap">
+<ul>
+<li class="active"><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="gallery.html">Booking</a></li>
+						<li><a href="log.php">Log In</a></li>
+
+<div class="clear"> </div>
+</ul>
+</div>
+</div>
+</div>
+<!---End-header--->
+
+			<div class="clear"> </div>
+			<!---start-content----->
+			<div class="content">
+				<div class="wrap">
+					<!-----start--services------>
+					<div class="services">
+						<div class="service-content">
+							<h2><center>Our Dormitories's Services</center> </h2>
+							<ul><center>
+							<details class="di">
+  <summary style="font-family:'Courier New'">Features of Sakan Alsayed</summary>
+  <p><ol>
+								<li>I. Fully furnished and equipped housing units for female students and female employees.</li><br>
+								<li>II. Prime locations in the best neighborhoods and very close to all services. </li><br>
+								<li>III. Continuous cleaning and sterilization service for buildings. </li><br>
+								<li>IV. Periodic maintenance. </li><br>
+								<li>V. Flexibility in contracts. </li><br>
+								<li>VI. Free transportation for housing for complexes, pharmacies, library and supermarkets. </li><br>
+								<li>VII. An integrated security and protection system, surveillance cameras inside and outside the building,
+								and there is also an electronic lock for the main doors of the building. </li><br>
+								<li>VIII. Public facilities, gym and study rooms. </li><br>
+								<li>IX. Housing supervisors in all branches. </li> <br>
+								<li>X. Private parking for the building. </li><br> 
+								<li>XI. New special bedding for each guest. </li> <br>
+								<li>XII. Cleaning aids, for common areas (hall, kitchen, and toilets). </li><br>
+								</ol></p>
+</details>
+							
+							
+							<details class="di">
+  <summary style="font-family:'Courier New'">Maintenance Features</summary>
+  
+  <p><ul>
+								<li>I. Regular maintenance of all building facilities.</li><br>
+								<li>II. Emergency maintenance is easily requested. </li><br>
+								<li>III. Ensure that safety and security standards are applied. </li><br>
+								</ul></p> 
+</details>
+							
+							
+							
+							
+							<details class="di">
+  <summary style="font-family:'Courier New'">Transportation Features</summary>
+  
+  <p><ul>
+								<li>I. Free daily transportation for shopping for personal supplies and shopping malls.</li><br>
+								<li>II. Transportation to more than 10 colleges and universities. </li><br>
+								<li>III. Free airport transportation for every 6 months.
+ </li><br>
+								<li>IV. Free weekly transportation to and from the train station, except for Jubail. </li><br>
+								<li>V. Weekly transportation to Al-Ahsa, Al-Khobar and Qatif. </li><br>
+								<li>VI. Free transportation for emergency cases such as hospitals and others. </li><br>
+								
+								</ul></p>
+</details>
+							
+							
+							</ul></center>
+							
+							<div id="slideshow">
+  <div class="slide-wrapper">
+    <div class="slide"><h1 class="slide-number"><img src="images/1.jpg" alt="sakan1" width="650" height="550"></h1></div>
+    <div class="slide"><h1 class="slide-number"><img src="images/2.jpg" alt="sakan2" width="450" height="350"></h1></div>
+    <div class="slide"><h1 class="slide-number"><img src="images/3.jpg" alt="sakan3" width="450" height="350"></h1></div>
+    <div class="slide"><h1 class="slide-number"><img src="images/4.jpg" alt="sakan4" width="450" height="350"></h1></div>
+    <div class="slide"><h1 class="slide-number"><img src="images/5.jpg" alt="sakan5" width="450" height="350"></h1></div>
+  </div>
+</div>
+							
+						<!-----here--->
+						<div class="services-sidebar">
+							
+					 		 <!-----will add smth--->
+						</div>
+						<div class="clear"> </div>
+					</div>
+					<!-----End--services------>
+				</div>
+				<div class="clear"> </div>
+				<div class="boxs">
+				<div class="wrap">
+				<div class="box">
+					 
+				</div>
+				<div class="box center-box">
+					<ul>
+						<li><a href="#" onclick="myFunction1()">Home</a></li>
+                        	<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="gallery.html">Booking</a></li>
+						<li><a href="services.html">Services</a></li>
+						<li><a href="log.php">Log In</a></li>
+					</ul>
+				</div>
+                     <div id="top123"> 
+                          <img src="logo.png" height=200px width=450px height=125px width=450px align=rights>
+                    </div>
+				<div class="clear"> </div>
+			</div>
+		
+		</div>
+	
+		<div class="copy-tight">
+			<p>&copy Sakan ALSAYD</p>
+		</div>
+	
+			</div>
+		
+		</div>
+
+	</body>
+</html>
+
